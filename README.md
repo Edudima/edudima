@@ -1,6 +1,6 @@
 # Edudima - Eduardo Diaz Marcos
 
-#### :wave:**¡Bienvenido a mi perfil de GitHub!**:wave:
+## **¡Bienvenido a mi perfil de GitHub!** :wave:
 
 Soy Edu, un apasionado de la tecnología con una sólida experiencia como administrador de sistemas. :computer:
 
@@ -13,3 +13,10 @@ Además escribo en mi blog personal [Edudima.com](https://edudima.com "Edudima.c
 En este espacio, compartiré proyectos, scripts y colaboraré con la comunidad para seguir aprendiendo y creciendo en este emocionante campo tecnológico.
 
 ¡Únete a mí en este viaje! :wink:
+
+## Echa un vistazo a mis repositorios :open_file_folder:
+
+![Edudima's GitHub stats](https://github-readme-stats.vercel.app/api?username=edudima&show_icons=true&theme=merko)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edudima&repo=cheat-sheets&theme=merko)](https://github.com/edudima/cheat-sheets)
+
