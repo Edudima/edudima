@@ -4,7 +4,7 @@
 
 Soy Edu, un apasionado de la tecnología con una sólida experiencia como administrador de sistemas. :computer:
 
-Mi entusiasmo por las soluciones tecnológicas y la exploración de nuevas fronteras en el mundo de la informática me ha llevado a ser un ávido homelaber, donde constantemente experimento con diversas tecnologías y construyo entornos de laboratorio en casa para mantenerme actualizado y desarrollar mis habilidades.
+Mi entusiasmo por las soluciones tecnológicas y la exploración de nuevas fronteras en el mundo de la informática me ha llevado a ser un ávido *"homelaber"*, donde constantemente experimento con diversas tecnologías y construyo entornos de laboratorio en casa para mantenerme actualizado y desarrollar mis habilidades.
 
 Además escribo en mi blog personal [Edudima.com](https://edudima.com "Edudima.com"), donde puedes encontrar artículos sobre VMware, Veeam, etc.
 
