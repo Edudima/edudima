@@ -1,6 +1,6 @@
 # Edudima - Eduardo Diaz Marcos
 
-#### :confetti_ball:**¡Bienvenido a mi perfil de GitHub!**:confetti_ball:
+#### :wave:**¡Bienvenido a mi perfil de GitHub!**:wave:
 
 Soy Edu, un apasionado de la tecnología con una sólida experiencia como administrador de sistemas. :computer:
 
