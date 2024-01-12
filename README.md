@@ -16,7 +16,7 @@ En este espacio, compartiré proyectos, scripts y colaboraré con la comunidad p
 
 ## Echa un vistazo a mis repositorios :open_file_folder:
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=edudima&repo=tutorials&theme=merko)](https://github.com/edudima/tutorials)
 
 ## GitHub Stats :octocat:
 
