@@ -1,4 +1,4 @@
-# Edudima - Eduardo Diaz Marcos
+# Edudima - Eduardo Díaz Marcos
 
 <p align="center">
   <img src="https://www.edudima.com/wp-content/uploads/2024/01/Foto-Edu-2-retocada-size.jpg" />
