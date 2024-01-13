@@ -4,8 +4,6 @@
   <img src="https://www.edudima.com/wp-content/uploads/2024/01/Foto-Edu-2-retocada-size.jpg" />
 </p>
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white "X")](https://twitter.com/Edudimacom "X")
-[![Edudima](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white "Edudima")](https://edudima.com "Edudima")
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![Centos](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
